@@ -1,5 +1,4 @@
 # Skin-Tone Detection Using Image Segmentation and PCA
-# Skin Tone Detection Using Image Segmentation and PCA
 
 This project demonstrates **color-based image segmentation** using **Principal Component Analysis (PCA)**.  
 The goal is to separate skin tones from background colors in images by projecting pixel values into a PCA-derived color space.
